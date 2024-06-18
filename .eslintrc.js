@@ -1,4 +1,7 @@
 module.exports = {
-  root: true,
-  extends: '@react-native',
+  // project: {
+  //   ios: {},
+  //   android: {},
+  // },
+  assets: ['.src/assets/fonts'],
 };
